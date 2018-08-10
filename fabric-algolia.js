@@ -4,7 +4,7 @@
  */
 import {PolymerElement} from '@polymer/polymer/polymer-element.js';
 import 'algoliasearch/dist/algoliasearch.min.js';
-
+import algoliasearch from 'algoliasearch'
 /**
  * `fabric-algolia`
  * Algolia search component
